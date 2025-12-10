@@ -1,10 +1,10 @@
-# AD599 Final Project  
-**LMS Analytics Project – MET AD 599**
+# MET AD 599 Final Project  
+**LMS.db Analytics & Visualization Project – MET AD 599**
 
 **Author:** Oliver Hancock  
-**Course:** Python and SQL for Business Analytics  
+**Course:** MET AD 599: Python and SQL for Business Analytics  
 **Semester:** Fall 2025  
-
+**Instructor:** Sree Kumar Valath Bhuan Das  
 ---
 
 ## Overview
@@ -14,15 +14,16 @@ This repository contains my final project analyzing an LMS dataset using SQL, Py
 
 ## Contents
 
-### **SQL Queries (Task 2)**
-Analytical and window function SQL queries used to explore and understand the dataset.
+### **Phase 1**
+ERD and Data Understanding (Task 1)  
 
-### **Machine Learning Model (Task 3)**
-Feature engineering, model training, evaluation, and feature importance analysis.
+Analytical SQL Queries (Task 2)  
 
-### **Visualizations (Task 4)**
-Time series trends, ROC curves, feature importance charts, correlation heatmap, scatterplots, and additional visuals that illustrate performance and engagement patterns.
+### **Phase 2**
+Machine Learning Model (Task 3) - Feature engineering, model training, evaluation, and feature importance analysis.  
 
-### **Report and Presentation**
-ERD, Data Dictionary, recommendations, and accompanying presentation slides.
+Visualizations (Task 4) - Time series trends, ROC curves, feature importance charts, correlation heatmap, scatterplots, and additional visuals that illustrate performance and engagement patterns. Recommendations. 
+
+### **Final Presentation**
+ERD, Data Dictionary, and accompanying presentation slides.
 
